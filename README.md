@@ -41,6 +41,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/riya-anand-604359191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Riya%20Anand-blue?style=flat-square&logo=linkedin"></a>
-
 <a href="mailto:riya.anand0508@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-riya.anand0508@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
