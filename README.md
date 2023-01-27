@@ -2,9 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing Bachelors of Technology majoring in Electronics and Communication Engineering at NIT, Jamshedpur.
-- 🤔 &nbsp; Exploring new technologies and leveraging them to solve real world problems.
 - 💼 &nbsp; Working as a Software Development Intern at Prodigy Technovations Pvt Ltd, Bangalore.
+- 🎓 &nbsp; Pursuing Bachelors of Technology majoring in Electronics and Communication Engineering at NIT, Jamshedpur.
+- 😄 &nbsp; Exploring new technologies and leveraging them to solve real world problems.
+- 🌱 &nbsp; Currently learning Data Structures and Algorithms and working on my web development skills.
+- 💜 &nbsp; Hobbies and interests include: Classical Dance, Retro Music and Photography.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
